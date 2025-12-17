@@ -1,0 +1,16 @@
+{
+  "name": "cs208-06.03-mini-lab-1",
+  "version": "1.0.0",
+  "description": "A mini lab for CS208 covering topic 06.03",
+  "homepage": "https://github.com/shanep/CS208-06.03-Mini-Lab-1#readme",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit ./test.js"
+  },
+  "devDependencies": {
+    "qunit": "^2.24.3"
+  }
+}
